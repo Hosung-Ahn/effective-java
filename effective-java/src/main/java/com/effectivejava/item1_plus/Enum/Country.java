@@ -1,8 +1,7 @@
-package com.effectivejava.item1_plus;
+package com.effectivejava.item1_plus.Enum;
 
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Set;
 
 public enum Country {
     KOREA("Korea"),

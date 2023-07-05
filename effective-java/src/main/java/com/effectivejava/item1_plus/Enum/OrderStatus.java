@@ -1,8 +1,4 @@
-package com.effectivejava.item1_plus;
-
-import com.effectivejava.item1.Order;
-
-import java.lang.reflect.Type;
+package com.effectivejava.item1_plus.Enum;
 
 public enum OrderStatus {
     ORDERED, SHIPPED, DELIVERED;
