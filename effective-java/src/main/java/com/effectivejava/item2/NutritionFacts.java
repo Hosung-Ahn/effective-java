@@ -1,4 +1,4 @@
-package com.effectivejava.item2_builder;
+package com.effectivejava.item2;
 
 public class NutritionFacts {
     private final int servingSize; // (mL) required

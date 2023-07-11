@@ -1,4 +1,4 @@
-package com.effectivejava.item2_builder;
+package com.effectivejava.item2;
 
 import java.util.EnumSet;
 import java.util.Objects;
