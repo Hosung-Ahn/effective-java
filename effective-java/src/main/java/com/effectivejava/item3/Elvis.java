@@ -1,7 +1,11 @@
 package com.effectivejava.item3;
 
 public class Elvis implements IElvis{
-    public static final Elvis INSTANCE = new Elvis();
+    private static final Elvis INSTANCE = new Elvis();
+
+    public Elvis getInstance() {
+        return INSTANCE;
+    }
 
     private static boolean created = false;
     private Elvis() {
