@@ -1,4 +1,4 @@
-package com.effectivejava.item7;
+package com.effectivejava.item7.stack;
 
 import java.util.EmptyStackException;
 
