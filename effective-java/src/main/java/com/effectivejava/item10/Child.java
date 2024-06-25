@@ -25,4 +25,6 @@ public class Child {
         System.out.println(parent.equals(child)); // false
         System.out.println(child.equals(parent)); // false
     }
+
+
 }
