@@ -1,6 +1,5 @@
 package com.effectivejava.item10;
 
-
 public class Point {
     int x;
     int y;
@@ -18,6 +17,6 @@ public class Point {
 
         Point point = (Point) obj; // obj를 Point로 캐스팅한다.
 
-        return point.x == x && point.y == y; // 3. 필드들을 비교한다.
+        return point.x == x && point.y == y; // 3. 핵심적인 필드들을 비교한다.
     }
 }
